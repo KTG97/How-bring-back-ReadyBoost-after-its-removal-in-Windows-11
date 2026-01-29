@@ -1,6 +1,7 @@
-# How-bring-back-ReadyBoost-after-its-removal-in-Windows-11
-Open PowerShell(Admin)
-And run the script given the readyboost cache file will there 
-first plug pendrive then run the script and then unplug the pendrive for 10 seconds
-and after that plug it in and there you go
-
+Plug in your USB Flash Drive.
+Open PowerShell (Admin).
+Copy and paste the ReadyBoost Script into the terminal and press Enter.
+Follow the on-screen prompts to select your drive and choose a cache size.
+Unplug the USB drive for 10 seconds.
+Plug it back in.
+Check your drive properties (Right-click Drive > Properties > ReadyBoost) to see the changes.
